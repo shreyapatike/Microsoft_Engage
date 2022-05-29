@@ -25,20 +25,16 @@
 
 13) distplot and catplot are used to check the variation of entire data of a particular column.
 
-47th cell 
 14) There are our final features that we are interested in. I used the inbuilt train_test_split to get validation data, training data and test data. 
 
 15) Used sklearn linear regressor to estimate the dependency of each feature. We can set the threshold of the coefficients with a particular value and choose the features that are effective in prediction. 
 
 16) Used randomforest for better estimation.
 
-
 17)  Now I gonna predict the price of the car using the 4 atmost important features (I believe). 
-
 
 18) used onehot encoding to convert the categorical features into numericals.
 
 19) Used random forest classifier to predict the price. We can use Linear regressor aswell.
-
 
 20) We can test with various kind of inputs to predict the price.
