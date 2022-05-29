@@ -1,4 +1,5 @@
 # Microsoft_Engage
+[HERE](https://youtu.be/Bgdtak8vZVE) IS THE LINK FOR THE DEMO VIDEO OF MY PROJECT!!
 1) df.nunique() returns the number of categories each column has.
 
 2) if a column has more then 50% null values then we simply drop the column.
